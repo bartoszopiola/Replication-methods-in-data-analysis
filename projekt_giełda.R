@@ -56,8 +56,6 @@ if (p_cov < 0.05) {
   cat("=> Brak podstaw do odrzucenia H0 (kowariancja = 0)\n")
 }
 
-R
-
 # 4b. Test rownosci wariancji
 # H0: var(r_eem) = var(r_qqq)
 
